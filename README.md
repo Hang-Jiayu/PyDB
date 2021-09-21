@@ -4,11 +4,11 @@ This is not the final result, it is constantly updating!
 Command list:
 |Command             |Explain                                         |
 -----------------------------------------------------------------------
-|@choose             |Choose a database to use.                       |\n
-|@create table       |Generate a table under the current database.    |\n
-|@create user        |Create a new user.                              |\n
-|@c or @continue     |Clear the current input statement.              |\n
-|@create database    |Create a database according to the boot.        |\n
+|@choose             |Choose a database to use.                       |
+|@create table       |Generate a table under the current database.    |
+|@create user        |Create a new user.                              |
+|@c or @continue     |Clear the current input statement.              |
+|@create database    |Create a database according to the boot.        |
 |@del table          |Delete a table.                                 |
 |@del database       |Delete a database.                              |
 |@exit               |Exit the program.                               |
