@@ -1,5 +1,5 @@
 # PyDB
-A Python based JSON database.
+A database base on JSON by Python.
 
 This is not the final result, it is constantly updating!
 
