@@ -35,4 +35,4 @@ Command list:
 
 |@show database      |View the database under the current user.       |
 
-|@query data         |Query data in the selected table.               |
+|@query              |Query data in the selected table.               |
