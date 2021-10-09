@@ -17,7 +17,7 @@ Command list:
 
 |@c or @continue     |Clear the current input statement.              |
 
-|@create database    |Create a database according to the boot.        |
+|@create database    |Create a database.        |
 
 |@del table          |Delete a table.                                 |
 
