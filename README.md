@@ -41,4 +41,4 @@ Command list:
 
 |@rename DB          |Change the name of the database.                |
 
-|@rename DB          |Change the name of the table.                   |
+|@rename table       |Change the name of the table.                   |
