@@ -17,15 +17,17 @@ Command list:
 
 |@c or @continue     |Clear the current input statement.              |
 
-|@create database    |Create a database.        |
+|@create DB          |Create a database according to the boot.        |
 
 |@del table          |Delete a table.                                 |
 
-|@del database       |Delete a database.                              |
+|@del DB             |Delete a database.                              |
 
 |@exit               |Exit the program.                               |
 
 |@h or @help         |Get the command list.                           |
+
+|@language           |Choose your language.                           |
 
 |@insert             |Insert data into a table.                       |
 
@@ -33,6 +35,10 @@ Command list:
 
 |@show tables        |View tables under the current database.         |
 
-|@show database      |View the database under the current user.       |
+|@show DB            |View the database under the current user.       |
 
 |@query              |Query data in the selected table.               |
+
+|@rename DB          |Change the name of the database.                |
+
+|@rename DB          |Change the name of the table.                   |
