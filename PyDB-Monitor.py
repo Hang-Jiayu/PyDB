@@ -87,7 +87,7 @@ def DBhelp():
         print("|@query              |Query data in the selected table.               |")
         #print("|@restart            |Restart the monitor.                            |")
         print("|@rename DB          |Change the name of the database.                |")
-        print("|@rename DB          |Change the name of the table.                |")
+        print("|@rename table       |Change the name of the table.                   |")
         print()
     elif language["Language"]=="中文":
         print()
@@ -113,7 +113,7 @@ def DBhelp():
         print("|@query              |在选择的表格中查询数据。")
         #print("|@restart            |重新启动数据库。")
         print("|@rename DB          |修改数据库名称。")
-        print("|@rename DB          |修改表格名称。")
+        print("|@rename table       |修改表格名称。")
         print()
 
 
